@@ -2,7 +2,6 @@ title = "Shovel Knight"
 description = "Shovel Knight is a 2D side-scrolling platform game presented in 8-bit graphics in which players control the eponymous protagonist as he collects treasure and fights against the Order of No Quarter."
 needs_system_files = false
 needs_shared_font = false
-game_type = 3ds
 
 [[releases]]
 title = "0004000000196900"
