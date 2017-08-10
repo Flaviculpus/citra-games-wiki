@@ -10,7 +10,7 @@ release_date = "2015-12-10"
 
 [[testcases]]
 title = "000400000016A600"
-compatibility = "2"
+compatibility = "1"
 date = "2017-08-09"
 version = "HEAD-792dee4"
 cpu = "Intel Core i7 2630QM"
